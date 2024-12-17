@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Games\\CurrencyConverter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:currencyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\currencydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:currencydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\data\\taskrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:data\\taskrespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\data\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:data\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\resources\\raw\\seeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:resources\\raw\\seeddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\data\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:data\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:data\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\currencyconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:currencyconverter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|d:\\games\\currencyconverter\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E2CFC242-CF41-4610-9D8B-6A373FF5FC3C}|CurrencyConverter.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskRespository.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Data\\TaskRespository.cs",
+              "RelativeDocumentMoniker": "Data\\TaskRespository.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Data\\TaskRespository.cs",
+              "RelativeToolTip": "Data\\TaskRespository.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAK4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:43:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Data\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Data\\TagRepository.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Data\\TagRepository.cs",
+              "RelativeToolTip": "Data\\TagRepository.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAgwLkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:43:10.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.json",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Resources\\Raw\\SeedData.json",
+              "RelativeDocumentMoniker": "Resources\\Raw\\SeedData.json",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Resources\\Raw\\SeedData.json",
+              "RelativeToolTip": "Resources\\Raw\\SeedData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T15:43:07.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectRepository.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Data\\ProjectRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectRepository.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Data\\ProjectRepository.cs",
+              "RelativeToolTip": "Data\\ProjectRepository.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAgwKoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:42:58.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Data\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Data\\CategoryRepository.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Data\\CategoryRepository.cs",
+              "RelativeToolTip": "Data\\CategoryRepository.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAgwJAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:42:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyViewModel.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\CurrencyViewModel.cs",
+              "RelativeDocumentMoniker": "CurrencyViewModel.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\CurrencyViewModel.cs",
+              "RelativeToolTip": "CurrencyViewModel.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAApwHoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:40:49.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:45:09.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "GlobalUsings.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\GlobalUsings.cs",
+              "RelativeToolTip": "GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:45:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CurrencyData.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\CurrencyData.cs",
+              "RelativeDocumentMoniker": "CurrencyData.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\CurrencyData.cs",
+              "RelativeToolTip": "CurrencyData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:20:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Currency.cs",
+              "RelativeDocumentMoniker": "Currency.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Currency.cs",
+              "RelativeToolTip": "Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:40:08.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:47:47.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pages\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-16T16:42:40.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CurrencyConverter.csproj",
+              "DocumentMoniker": "D:\\Games\\CurrencyConverter\\CurrencyConverter.csproj",
+              "RelativeDocumentMoniker": "CurrencyConverter.csproj",
+              "ToolTip": "D:\\Games\\CurrencyConverter\\CurrencyConverter.csproj",
+              "RelativeToolTip": "CurrencyConverter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T16:39:20.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
